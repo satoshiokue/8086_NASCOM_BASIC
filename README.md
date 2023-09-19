@@ -1,2 +1,5 @@
 # 8086_NASCOM_BASIC
-NASCOM BASIC. Converted source code from 8080/Z80 to 8086
+
+Nascom BASICはマイクロソフトが作成し、Grant Searleさんがサブセットに改編し、鈴木哲哉さんが移植されたコードを元に、奥江聡が8080/Z80から8086にコンバートしました。  
+
+ファイルは原作者の宣言にしたがってご利用ください。
