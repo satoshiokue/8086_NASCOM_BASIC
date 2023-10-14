@@ -887,6 +887,7 @@ DATSNR:
 	MOV	[LINEAT],BX		; Save as current line
 SNERR:
 	MOV	DL,SN			; ?SN Error
+	JMP	ERROR
 DZERR:
 	MOV	DL,DZ			; ?/0 Error
 	JMP	ERROR
